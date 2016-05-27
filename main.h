@@ -12,6 +12,7 @@ void ReadInput(std::string InFile){
   while(!(in.eof())){
     getline(in,eat);
     std::cout << eat << std::endl;
+    
   }
   
 
